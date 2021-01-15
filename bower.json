@@ -14,7 +14,7 @@
     "slider"
   ],
   "license": "MIT",
-  "homepage": "ahmadalibaloch.github.io/multirange.html",
+  "homepage": "https://ahmadalibaloch.github.io/multirange.html",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -24,6 +24,6 @@
     "demo"
   ],
   "dependencies": {
-    "angular": "~1.3.2"
+    "angular": "^1.3.2"
   }
 }
